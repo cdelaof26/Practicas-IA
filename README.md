@@ -1,24 +1,20 @@
 # Prácticas de IA
 
-https://github.com/JuanMAleman/Practicas-IA
+https://github.com/cdelaof26/Practicas-IA
 
 En este repositorio se encuentran todas las prácticas que
 se realizaran a lo largo del semestre 27/1 en la materia 
 de inteligencia artificial en el grupo 6CV2.
 
-### Integrantes de equipo
+### Autor
 
-- Juan Manriquez [@JuanMAleman](https://github.com/JuanMAleman/)
-- Cristopher De La O [@cdelaof26](https://github.com/cdelaof26/)
-- José Omar Aguilar [@Jose-omar-aguilar](https://github.com/Jose-omar-aguilar)
-- Ana Fabiola Robles
-- Axel Paredes  [@A-20AA](https://github.com/A-20AA)
+Cristopher De La O [@cdelaof26](https://github.com/cdelaof26/)
 
 ### Ejecución de prácticas
 
 ```shell
 # Clonar repositorio
-git clone https://github.com/JuanMAleman/IA-Practicas
+git clone https://github.com/cdelaof26/IA-Practicas
 ``` 
 
 ```shell
