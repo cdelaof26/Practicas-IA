@@ -1,3 +1,5 @@
+liac-arff
+fg-data-profiling
 appnope
 asttokens
 comm

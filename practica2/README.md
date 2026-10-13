@@ -19,4 +19,6 @@ archivo `main.ipynb`
 
 ### Historial de versiones
 
+#### v0.1.8 Data profiling
+
 #### v0.1.7 Proyecto inicial - práctica 2
